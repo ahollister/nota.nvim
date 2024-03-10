@@ -6,6 +6,10 @@ builtin.open_global = function()
 	return open.open_global()
 end
 
+builtin.open_scratch = function()
+	return open.open_scratch()
+end
+
 builtin.open_local = function()
 	return open.open_local()
 end

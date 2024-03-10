@@ -7,6 +7,8 @@ command.create_command = function()
 	vim.api.nvim_create_user_command("Nota", function(opts)
 		if opts.fargs[1] == "open_global" then
 			builtin.open_global()
+		elseif opts.fargs[1] == "open_scratch" then
+			builtin.open_scratch()
 		elseif opts.fargs[1] == "open_local" then
 			builtin.open_local()
 		end
@@ -17,6 +19,7 @@ command.create_command = function()
 		complete = function(arglead)
 			local commands = {
 				"open_global",
+				"open_scratch",
 				"open_local",
 			}
 
