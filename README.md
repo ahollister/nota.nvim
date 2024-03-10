@@ -10,7 +10,7 @@ A global scratch file or directory, opened with `Nota.open_scratch`.
 
 A file or directory at a path relative to the current working directory, opened with `Nota.open_local`.
 
-Any directories you specify in either path that do not yet exist will be created the first time you run the relevent command.
+Directories you specify in any configured path that do not yet exist will be created the first time you run the relevent command.
 
 ## Installation
 ---
