@@ -1,6 +1,6 @@
 # Nota.nvim
 
-I wanted a truly uncomplicated note taking setup. Nothing overwrought, just an easy way to pop open a project specific location for project notes, a global location for ongoing todos or notes, and another global location I can for scratch files.
+I wanted a truly uncomplicated note taking setup. Nothing overwrought, just an easy way to pop open a project specific location for project notes, a global location for ongoing todos or notes, and another global location I can use for scratch files.
 
 ## What do you get?
 
