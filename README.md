@@ -14,11 +14,11 @@ Directories you specify in any configured path that do not yet exist will be cre
 
 ## Demo
 
-Here's the `open_local` command being used where the configuration specifies a file `notes.md` in the project root directory.
+Here's the `open_local` command being used where the configuration specifies a file `notes.md` in the project root directory, and vertical split.
 
 https://github.com/ahollister/nota.nvim/assets/33579472/c4c90231-55b3-4040-91d0-49c570e23b5f
 
-Here's the `open_local` command being used where the configuration specifies a directory `notes/` from the project root directory.
+Here's the `open_local` command being used where the configuration specifies a directory `notes/` from the project root directory, and vertical split.
 
 https://github.com/ahollister/nota.nvim/assets/33579472/e95665ad-b23f-4c18-8ecc-c4a7d74bcf12
 
