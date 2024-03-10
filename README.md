@@ -36,7 +36,7 @@ Directories you specify in any configured path that do not yet exist will be cre
 
 #### Using directory paths, these commands will open the directories in a split.
 
-**N.B: I haven't tested this with lots of file navigation plugins, (just [Oil.nvim](https://github.com/stevearc/oil.nvim) since that's what I am using), but the function that opens these directories is just the `split` or `vsplit` command so I don't expect it should break.**
+*N.B: I haven't tested this with lots of file navigation plugins, (just [Oil.nvim](https://github.com/stevearc/oil.nvim) since that's what I am using), but the function that opens these directories is just the `split` or `vsplit` command so I don't expect it should break.*
 
 ```
 -- Nota
